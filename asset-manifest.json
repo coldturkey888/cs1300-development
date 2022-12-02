@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/cs1300-development/static/css/main.d02c83da.css",
-    "main.js": "/cs1300-development/static/js/main.e8ee8d06.js",
+    "main.js": "/cs1300-development/static/js/main.371dca64.js",
+    "static/media/paracetamol.png": "/cs1300-development/static/media/paracetamol.90ebe788a7c1cde423c2.png",
     "static/media/dang.jpeg": "/cs1300-development/static/media/dang.0a6b7f50d5444842cd03.jpeg",
     "static/media/stopify_logo.png": "/cs1300-development/static/media/stopify_logo.855eb809b9ca6ee5d571.png",
     "static/media/tu.jpeg": "/cs1300-development/static/media/tu.5b77cd7bcd852e8f3afd.jpeg",
@@ -15,12 +16,13 @@
     "static/media/mama.jpeg": "/cs1300-development/static/media/mama.8f45abcd5685b7439b9d.jpeg",
     "static/media/i_wish.jpg": "/cs1300-development/static/media/i_wish.84d7f5aad8aaec767bf3.jpg",
     "static/media/daunt.jpg": "/cs1300-development/static/media/daunt.57c17436497c93f28f11.jpg",
+    "static/media/janet.jpg": "/cs1300-development/static/media/janet.10fcb07ed0ff3ad4f67a.jpg",
     "index.html": "/cs1300-development/index.html",
     "main.d02c83da.css.map": "/cs1300-development/static/css/main.d02c83da.css.map",
-    "main.e8ee8d06.js.map": "/cs1300-development/static/js/main.e8ee8d06.js.map"
+    "main.371dca64.js.map": "/cs1300-development/static/js/main.371dca64.js.map"
   },
   "entrypoints": [
     "static/css/main.d02c83da.css",
-    "static/js/main.e8ee8d06.js"
+    "static/js/main.371dca64.js"
   ]
 }
