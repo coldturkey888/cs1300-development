@@ -13,6 +13,19 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
+}
+
+.library-header-sort-by {
+  align-items: center;
+  color: white;
+  display: inline-flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.library-header-sort-by p {
+  text-align: center;
 }
 
 .library-header h2 {

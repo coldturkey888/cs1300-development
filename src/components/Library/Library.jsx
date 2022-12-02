@@ -1,6 +1,6 @@
 import './Library.css';
 import SongCard from '../SongCard/SongCard';
-import { FormControl, InputLabel, Select, MenuItem } from '@mui/material';
+import { FormControl, Select, MenuItem } from '@mui/material';
 import { useState } from "react";
 import data from '../../data.json';
 
@@ -32,14 +32,13 @@ function Library(props) {
     <div className="library">
       <div className="library-header">
         <h2>Your Library</h2>
-        <div>
+        <div className="library-header-sort-by">
+          <p>Sort by:</p>
           <FormControl>
-            <InputLabel>Sort by</InputLabel>
             <Select
               labelId="demo-simple-select-label"
               id="demo-simple-select"
               value={sort}
-              label="Sort by"
               onChange={handleSortChange}
             >
               <MenuItem value="name">Name</MenuItem>
