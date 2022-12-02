@@ -10,11 +10,12 @@ function MusicControls(props) {
       <IconButton size="large" color="success">
         <SkipPreviousIcon />
       </IconButton>
-      <IconButton size="large" color="success">
+      <IconButton size="large" color="success"
+        onClick={() => props.setIsPlaying(!props.isPlaying)}>
         {
           props.isPlaying
-            ? <PauseIcon onClick={() => props.setIsPlaying(false)} />
-            : <PlayArrowIcon onClick={() => props.setIsPlaying(true)} />
+            ? <PauseIcon />
+            : <PlayArrowIcon />
         }
       </IconButton>
       <IconButton size="large" color="success">
