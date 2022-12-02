@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cs1300-development/static/css/main.c71afebb.css",
-    "main.js": "/cs1300-development/static/js/main.8fa3ee55.js",
+    "main.css": "/cs1300-development/static/css/main.ebcd800c.css",
+    "main.js": "/cs1300-development/static/js/main.35ecd9c6.js",
     "static/media/dang.jpeg": "/cs1300-development/static/media/dang.0a6b7f50d5444842cd03.jpeg",
     "static/media/stopify_logo.png": "/cs1300-development/static/media/stopify_logo.855eb809b9ca6ee5d571.png",
     "static/media/tu.jpeg": "/cs1300-development/static/media/tu.5b77cd7bcd852e8f3afd.jpeg",
@@ -16,11 +16,11 @@
     "static/media/i_wish.jpg": "/cs1300-development/static/media/i_wish.84d7f5aad8aaec767bf3.jpg",
     "static/media/daunt.jpg": "/cs1300-development/static/media/daunt.57c17436497c93f28f11.jpg",
     "index.html": "/cs1300-development/index.html",
-    "main.c71afebb.css.map": "/cs1300-development/static/css/main.c71afebb.css.map",
-    "main.8fa3ee55.js.map": "/cs1300-development/static/js/main.8fa3ee55.js.map"
+    "main.ebcd800c.css.map": "/cs1300-development/static/css/main.ebcd800c.css.map",
+    "main.35ecd9c6.js.map": "/cs1300-development/static/js/main.35ecd9c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c71afebb.css",
-    "static/js/main.8fa3ee55.js"
+    "static/css/main.ebcd800c.css",
+    "static/js/main.35ecd9c6.js"
   ]
 }
