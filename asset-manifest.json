@@ -1,14 +1,26 @@
 {
   "files": {
-    "main.css": "/cs1300-development/static/css/main.073c9b0a.css",
-    "main.js": "/cs1300-development/static/js/main.28a46d68.js",
-    "static/media/logo.svg": "/cs1300-development/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/cs1300-development/static/css/main.c71afebb.css",
+    "main.js": "/cs1300-development/static/js/main.8fa3ee55.js",
+    "static/media/dang.jpeg": "/cs1300-development/static/media/dang.0a6b7f50d5444842cd03.jpeg",
+    "static/media/stopify_logo.png": "/cs1300-development/static/media/stopify_logo.855eb809b9ca6ee5d571.png",
+    "static/media/tu.jpeg": "/cs1300-development/static/media/tu.5b77cd7bcd852e8f3afd.jpeg",
+    "static/media/kilby_girl.jpeg": "/cs1300-development/static/media/kilby_girl.419af461f5b1d76c81a0.jpeg",
+    "static/media/la_vie_en_rose.jpeg": "/cs1300-development/static/media/la_vie_en_rose.a99e7bc7f5bca94e8466.jpeg",
+    "static/media/dont_know_why.jpeg": "/cs1300-development/static/media/dont_know_why.9cc21a564aeb9d11483e.jpeg",
+    "static/media/two_fingers.jpeg": "/cs1300-development/static/media/two_fingers.52a6c55c2c0537ffd82e.jpeg",
+    "static/media/z4l.jpg": "/cs1300-development/static/media/z4l.51e365bd10215b2e564d.jpg",
+    "static/media/rock_your_body.jpeg": "/cs1300-development/static/media/rock_your_body.c494c5273ee6e4718793.jpeg",
+    "static/media/awake.jpg": "/cs1300-development/static/media/awake.36283b4a98d2fb38bdb2.jpg",
+    "static/media/mama.jpeg": "/cs1300-development/static/media/mama.8f45abcd5685b7439b9d.jpeg",
+    "static/media/i_wish.jpg": "/cs1300-development/static/media/i_wish.84d7f5aad8aaec767bf3.jpg",
+    "static/media/daunt.jpg": "/cs1300-development/static/media/daunt.57c17436497c93f28f11.jpg",
     "index.html": "/cs1300-development/index.html",
-    "main.073c9b0a.css.map": "/cs1300-development/static/css/main.073c9b0a.css.map",
-    "main.28a46d68.js.map": "/cs1300-development/static/js/main.28a46d68.js.map"
+    "main.c71afebb.css.map": "/cs1300-development/static/css/main.c71afebb.css.map",
+    "main.8fa3ee55.js.map": "/cs1300-development/static/js/main.8fa3ee55.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.28a46d68.js"
+    "static/css/main.c71afebb.css",
+    "static/js/main.8fa3ee55.js"
   ]
 }
