@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;500&family=Inter:wght@400;500&display=swap');
+
+* {
+  font-family: 'Figtree';
+}
+
 .App {
   text-align: center;
+  background-color: #282c34;
+  height: 100vh;
 }
 
 .App-logo {
@@ -7,25 +15,29 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  height: 15vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: space-between;
+  font-size: 30px;
   color: white;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
-.App-link {
-  color: #61dafb;
+.App-header-left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.App-logo {
+  height: 10vh;
+  object-fit: contain;
+  animation: App-logo-spin infinite 10s linear;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +47,40 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.App-title {
+  color: #189143;
+  text-shadow: 4px 4px rgb(40, 89, 40);
+}
+
+.App-header-right {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.App-body {
+  height: 85vh;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: space-between;
+  color: rgb(220, 219, 219);
+}
+
+.App-body-left {
+  flex: 3;
+  overflow-y: scroll;
+}
+
+.App-body-center {
+  flex: 6;
+  overflow-y: scroll;
+}
+
+.App-body-right {
+  flex: 4;
+  overflow-y: scroll;
 }

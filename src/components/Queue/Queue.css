@@ -1,0 +1,33 @@
+.queue {
+  border: rgb(58, 62, 58) solid 2px;
+  border-radius: 5px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  padding-inline: 30px;
+  padding-bottom: 20px;
+  justify-content: start;
+  text-align: start;
+}
+
+.queue-header {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.queue-header h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.queue-content {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: scroll;
+}
+
+

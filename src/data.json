@@ -1,0 +1,158 @@
+{
+  "songs": [
+    {
+      "name": "Tú",
+      "artist": "Maye",
+      "genre": [
+        "Pop",
+        "Indie"
+      ],
+      "duration": 207,
+      "vibe": [
+        "Chill",
+        "Sentimental"
+      ],
+      "img_src": "tu.jpeg"
+    },
+    {
+      "name": "Z4L",
+      "artist": "Smino, Bari, Jay2",
+      "genre": [
+        "Hip-Hop/Rap"
+      ],
+      "duration": 163,
+      "vibe": [
+        "Energetic"
+      ],
+      "img_src": "z4l.jpg"
+    },
+    {
+      "name": "Dang!",
+      "artist": "Mac Miller, Anderson .Paak",
+      "genre": [
+        "Hip-Hop/Rap",
+        "R&B"
+      ],
+      "duration": 305,
+      "vibe": [
+        "Chill",
+        "Energetic"
+      ],
+      "img_src": "dang.jpeg"
+    },
+    {
+      "name": "Awake",
+      "artist": "Electric Guest",
+      "genre": [
+        "Indie",
+        "Rock"
+      ],
+      "duration": 300,
+      "vibe": [
+        "Chill"
+      ],
+      "img_src": "awake.jpg"
+    },
+    {
+      "name": "Two Fingers",
+      "artist": "Jake Bugg",
+      "genre": [
+        "Indie",
+        "Rock"
+      ],
+      "duration": 195,
+      "vibe": [
+        "Sentimental"
+      ],
+      "img_src": "two_fingers.jpeg"
+    },
+    {
+      "name": "Kilby Girl",
+      "artist": "Jake Bugg",
+      "genre": [
+        "Indie",
+        "Rock"
+      ],
+      "duration": 282,
+      "vibe": [
+        "Energetic"
+      ],
+      "img_src": "kilby_girl.jpeg"
+    },
+    {
+      "name": "Mama, You Been On My Mind",
+      "artist": "Jeff Buckley",
+      "genre": [
+        "Pop"
+      ],
+      "duration": 205,
+      "vibe": [
+        "Sentimental"
+      ],
+      "img_src": "mama.jpeg"
+    },
+    {
+      "name": "I Wish",
+      "artist": "Tom Misch",
+      "genre": [
+        "Indie",
+        "R&B",
+        "Pop"
+      ],
+      "duration": 228,
+      "vibe": [
+        "Chill"
+      ],
+      "img_src": "i_wish.jpg"
+    },
+    {
+      "name": "La Vie en Rose",
+      "artist": "Zaz",
+      "genre": [
+        "Pop"
+      ],
+      "duration": 231,
+      "vibe": [
+        "Chill"
+      ],
+      "img_src": "la_vie_en_rose.jpeg"
+    },
+    {
+      "name": "Don't Know Why",
+      "artist": "Norah Jones",
+      "genre": [
+        "Pop",
+        "R&B"
+      ],
+      "duration": 186,
+      "vibe": [
+        "Sentimental"
+      ],
+      "img_src": "dont_know_why.jpeg"
+    },
+    {
+      "name": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "genre": [
+        "Pop"
+      ],
+      "duration": 267,
+      "vibe": [
+        "Energetic"
+      ],
+      "img_src": "rock_your_body.jpeg"
+    },
+    {
+      "name": "Daunt",
+      "artist": "Jelani Aryeh",
+      "genre": [
+        "R&B"
+      ],
+      "duration": 193,
+      "vibe": [
+        "Sentimental"
+      ],
+      "img_src": "daunt.jpg"
+    }
+  ]
+}

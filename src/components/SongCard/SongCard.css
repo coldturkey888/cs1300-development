@@ -1,0 +1,123 @@
+.song-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  border-radius: 0.5rem;
+  background-color: #2d3136;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+.song-card-content {
+  flex: 2;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 20px;
+  height: 100%;
+}
+
+.song-card-content-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  position: relative;
+}
+
+.song-card-content-left-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+.song-card-content-left-duration {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  z-index: 99;
+  font-size: 0.8rem;
+  border-radius: 0.3rem;
+  padding: 0.2rem;
+  opacity: 0.6;
+  background-color: #000000;
+}
+
+.song-card-content-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.song-card-content-right-top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.song-card-content-right-name {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.song-card-content-right-genres {
+  display: inline-flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.song-card-genre-tag {
+  font-size: 0.8rem;
+  padding: 5px;
+  border-radius: 0.3rem;
+  background-color: #4a5057;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+.song-card-vibe-tag {
+  font-size: 0.8rem;
+  padding: 5px;
+  border-radius: 0.3rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+#Chill {
+  background-color: #156a33;
+}
+
+#Energetic {
+  background-color: #952723;
+}
+
+#Sentimental {
+  background-color: #deae2a;
+  color: black;
+}
+
+.song-card-actions {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.song-card-vibes {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: end;
+  margin-right: 10px;
+  gap: 5px;
+}
+
+.song-card-add {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-right: 10px;
+}
