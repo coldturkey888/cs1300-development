@@ -153,6 +153,30 @@
         "Sentimental"
       ],
       "img_src": "daunt.jpg"
+    },
+    {
+      "name": "Paracetamol",
+      "artist": "Declan McKenna",
+      "genre": [
+        "Indie", "Pop"
+      ],
+      "duration": 318,
+      "vibe": [
+        "Energetic"
+      ],
+      "img_src": "paracetamol.png"
+    },
+    {
+      "name": "Janet",
+      "artist": "Berhana",
+      "genre": [
+        "R&B"
+      ],
+      "duration": 204,
+      "vibe": [
+        "Chill"
+      ],
+      "img_src": "janet.jpg"
     }
   ]
 }
