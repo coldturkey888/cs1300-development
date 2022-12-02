@@ -18,10 +18,8 @@ function QueueCard(props) {
           </div>
         </div>
       </div>
-      <IconButton size="large" color="success">
-        <DeleteIcon
-          onClick={() => props.setQueue(removeSongById(props.queue, props.id))}
-        />
+      <IconButton size="large" color="success" onClick={() => props.setQueue(removeSongById(props.queue, props.id))}>
+        <DeleteIcon/>
       </IconButton>
     </div>
   );
