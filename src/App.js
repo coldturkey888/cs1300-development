@@ -1,6 +1,6 @@
 import './App.css';
 import MusicControls from './components/MusicControls/MusicControls';
-import FilterSort from './components/FilterSort/FilterSort';
+import Filters from './components/Filters/Filters';
 import Library from './components/Library/Library';
 import Queue from './components/Queue/Queue';
 import stopify_logo from './assets/stopify_logo.png';
@@ -26,7 +26,7 @@ function App() {
 
       <div className="App-body">
         <div className="App-body-left">
-          <FilterSort
+          <Filters
             genreFilter={genreFilter}
             vibeFilter={vibeFilter}
             setGenreFilter={setGenreFilter}

@@ -1,10 +1,10 @@
-import './FilterSort.css';
+import './Filters.css';
 import { RadioGroup, FormControlLabel, Radio } from '@mui/material';
 
-function FilterSort(props) {
+function Filters(props) {
   return (
-    <div className="filter-sort">
-      <h2 className="filter-sort-header">Your Preferences</h2>
+    <div className="filters">
+      <h2 className="filters-header">Your Preferences</h2>
       <div className="filter-group">
         <label className="filter-group-label">Genre</label>
         <RadioGroup value={props.genreFilter} onChange={(e) => props.setGenreFilter(e.target.value)}>
@@ -60,4 +60,4 @@ function FilterSort(props) {
   );
 }
 
-export default FilterSort;
+export default Filters;
